@@ -15,6 +15,7 @@
   ],
   "dependencies": {
     "express": "^4.16.4"
+	"mongoose": "4.13.5"
   },
   "repository": {
     "type": "git",
